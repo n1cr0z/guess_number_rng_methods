@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication5.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  RNGmthods.cpp
+C:\Users\n1cr0z\source\repos\ConsoleApplication5\ConsoleApplication5\RNGmethods.h(23,15): warning C4244: инициализация: преобразование "uint64_t" в "uint32_t", возможна потеря данных
+C:\Users\n1cr0z\source\repos\ConsoleApplication5\ConsoleApplication5\RNGmethods.h(25,15): warning C4244: инициализация: преобразование "uint64_t" в "uint32_t", возможна потеря данных
+C:\Users\n1cr0z\source\repos\ConsoleApplication5\ConsoleApplication5\RNGmthods.cpp(8,24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\n1cr0z\source\repos\ConsoleApplication5\ConsoleApplication5\RNGmthods.cpp(15,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\n1cr0z\source\repos\ConsoleApplication5\ConsoleApplication5\RNGmthods.cpp(21,17): warning C4244: =: преобразование "time_t" в "uint32_t", возможна потеря данных
+  ConsoleApplication5.vcxproj -> C:\Users\n1cr0z\source\repos\ConsoleApplication5\x64\Debug\MiniGameRNG.exe
